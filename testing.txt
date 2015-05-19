@@ -1,0 +1,10 @@
+$$ This is a test file for committing a file other than the readme.
+
+x = 4;
+y = 12;
+
+for i=1:y
+	disp(x)
+end
+
+disp('useless much?');
